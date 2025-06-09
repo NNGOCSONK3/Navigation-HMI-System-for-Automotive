@@ -1,0 +1,149 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SplashScreens.qml</file>
+        <file>MainPage.qml</file>
+        <file>assets/icons/Car Settings Icon.svg</file>
+        <file>assets/icons/Climate Control Icon.svg</file>
+        <file>assets/icons/Home Icon.svg</file>
+        <file>assets/icons/Media Icon.svg</file>
+        <file>assets/icons/Navigation Icon.svg</file>
+        <file>controls/HomeButton.qml</file>
+        <file>screens/HomeScreen.qml</file>
+        <file>screens/NavigationScreen.qml</file>
+        <file>Style.qml</file>
+        <file>assets/techcoderhub_logo.jpg</file>
+        <file>Components/DateTimeTile.qml</file>
+        <file>assets/icons/BatteryIcon.svg</file>
+        <file>assets/icons/BatteryIcon-2.svg</file>
+        <file>assets/icons/Cloud Icon.svg</file>
+        <file>Components/BatteryTile.qml</file>
+        <file>assets/icons/Eco Leaf Icon.svg</file>
+        <file>Components/NotificationTile.qml</file>
+        <file>assets/icons/Tire Pressure Icon.svg</file>
+        <file>assets/icons/logos--spotify-icon.svg</file>
+        <file>controls/PrefsButton.qml</file>
+        <file>assets/fontawesome/fontawesome.otf</file>
+        <file>assets/icons/jam--repeat.svg</file>
+        <file>assets/icons/lucide--repeat-1.svg</file>
+        <file>assets/icons/mage--next-fill.svg</file>
+        <file>assets/icons/mage--pause-fill.svg</file>
+        <file>assets/icons/mage--play-fill.svg</file>
+        <file>assets/icons/mage--previous-fill.svg</file>
+        <file>assets/icons/mingcute--shuffle-2-fill.svg</file>
+        <file>assets/icons/mi--repeat.svg</file>
+        <file>assets/icons/Back Arrow.svg</file>
+        <file>assets/icons/Front Arrow.svg</file>
+        <file>assets/icons/music-backword.svg</file>
+        <file>assets/icons/music-forword.svg</file>
+        <file>assets/icons/Volume Icon.svg</file>
+        <file>assets/icons/Bluetooth Icon.svg</file>
+        <file>assets/music-dummy-icons/Song 1.png</file>
+        <file>assets/music-dummy-icons/Song 2.png</file>
+        <file>assets/music-dummy-icons/Song 3.png</file>
+        <file>assets/music-dummy-icons/Song 4.png</file>
+        <file>assets/music-dummy-icons/Song 5.png</file>
+        <file>assets/music-dummy-icons/Song 6.png</file>
+        <file>assets/icons/Skip Track Button.svg</file>
+        <file>assets/icons/Air Back Window.svg</file>
+        <file>assets/icons/Air Down.svg</file>
+        <file>assets/icons/Air Up.svg</file>
+        <file>assets/icons/Air Windshield.svg</file>
+        <file>assets/icons/Down.svg</file>
+        <file>assets/icons/Fan Icon.svg</file>
+        <file>assets/icons/Heat Seats.svg</file>
+        <file>Components/KeyBoardTile.qml</file>
+        <file>assets/carIcons/BackSeat.png</file>
+        <file>assets/carIcons/BackStorage.png</file>
+        <file>assets/carIcons/DriverSeat.png</file>
+        <file>assets/carIcons/DriverSideSeat.png</file>
+        <file>assets/carIcons/frontEngine.png</file>
+        <file>assets/carIcons/HighlightLeftTopTire.png</file>
+        <file>assets/carIcons/LeftSideMirror.png</file>
+        <file>assets/carIcons/lefttiretopandSeatSlectedpng.png</file>
+        <file>assets/carIcons/leftTopTire.png</file>
+        <file>assets/carIcons/lowerLeftire.png</file>
+        <file>assets/carIcons/lowerRightTire.png</file>
+        <file>assets/carIcons/RightSideMirror.png</file>
+        <file>assets/carIcons/righttopTire.png</file>
+        <file>Components/VehicleSkeletonTile.qml</file>
+        <file>assets/carIcons/vehical.png</file>
+        <file>controls/PulseButton.qml</file>
+        <file>assets/icons/Eco Leaf Icon 2.svg</file>
+        <file>assets/icons/lock.svg</file>
+        <file>assets/icons/Power Icon.svg</file>
+        <file>assets/icons/Warning.svg</file>
+        <file>Components/PowerControls.qml</file>
+        <file>assets/icons/Sport Flag Icon.svg</file>
+        <file>assets/icons/BatteryIcon_sports.svg</file>
+        <file>assets/icons/BatteryIcon_normal.svg</file>
+        <file>assets/icons/Sport Flag Icon_battery.svg</file>
+        <file>assets/icons/Double Arrows.svg</file>
+        <file>assets/icons/double-arrow.svg</file>
+        <file>assets/icons/Seat B&amp;F.svg</file>
+        <file>assets/icons/Seat Recline.svg</file>
+        <file>assets/icons/Straight Arrow.svg</file>
+        <file>assets/icons/Warningicon.svg</file>
+        <file>assets/icons/left-arrow.svg</file>
+        <file>assets/icons/Erroricon.svg</file>
+        <file>assets/seatIcons/mdi--car-child-seat.svg</file>
+        <file>assets/seatIcons/mdi--car-seat-cooler.svg</file>
+        <file>assets/seatIcons/mdi--car-seat-heater.svg</file>
+        <file>assets/seatIcons/mdi--car-seat.svg</file>
+        <file>assets/seatIcons/mdi--seat-flat-angled.svg</file>
+        <file>assets/seatIcons/mdi--seat-individual-suite.svg</file>
+        <file>assets/seatIcons/mdi--seat-legroom-extra.svg</file>
+        <file>assets/seatIcons/mdi--seat-legroom-normal.svg</file>
+        <file>assets/seatIcons/mdi--seat-passenger.svg</file>
+        <file>assets/seatIcons/mdi--seat-recline-extra(1).svg</file>
+        <file>assets/seatIcons/mdi--seat-recline-extra.svg</file>
+        <file>assets/seatIcons/mdi--seatbelt.svg</file>
+        <file>assets/icons/Backup Camera Picture.png</file>
+        <file>assets/icons/Map Picture.png</file>
+        <file>Components/MapTile.qml</file>
+        <file>assets/icons/Home-icon-Add.svg</file>
+        <file>assets/icons/Plus-icon-add.svg</file>
+        <file>assets/icons/Work-icon-add.svg</file>
+        <file>assets/icons/FMStation.svg</file>
+        <file>assets/icons/Wifi-icon.svg</file>
+        <file>main.qml</file>
+        <file>icons/Base.svg</file>
+        <file>icons/entypo_home.svg</file>
+        <file>icons/Navigation.svg</file>
+        <file>icons/Top Navigation.svg</file>
+        <file>icons/Vector.svg</file>
+        <file>icons/Background.png</file>
+        <file>icons/car.png</file>
+        <file>icons/Navigation.png</file>
+        <file>icons/bxs_music.svg</file>
+        <file>icons/clarity_settings-solid.svg</file>
+        <file>icons/ep_menu.svg</file>
+        <file>icons/eva_phone-call-fill.svg</file>
+        <file>img/background.png</file>
+        <file>img/background.svg</file>
+        <file>img/cirlcle.svg</file>
+        <file>img/Ellipse 1.svg</file>
+        <file>img/Ellipse 5.svg</file>
+        <file>img/Ellipse 6.svg</file>
+        <file>img/maxLimit.svg</file>
+        <file>img/needle.svg</file>
+        <file>img/Rectangle 4.svg</file>
+        <file>img/ring.svg</file>
+        <file>img/sub.svg</file>
+        <file>img/Subtract.svg</file>
+        <file>img/tickmark.svg</file>
+        <file>icons/Car.svg</file>
+        <file>icons/Vector 1.svg</file>
+        <file>icons/Vector 2.svg</file>
+        <file>img/Model 3.png</file>
+        <file>icons/light/bxs_music.svg</file>
+        <file>icons/light/clarity_settings-solid.svg</file>
+        <file>icons/light/entypo_home.svg</file>
+        <file>icons/light/ep_menu.svg</file>
+        <file>icons/light/eva_phone-call-fill.svg</file>
+        <file>icons/Headlights.svg</file>
+        <file>icons/light/Car_Icon.svg</file>
+        <file>icons/Car_icon.svg</file>
+        <file>Components/AnalockTile.qml</file>
+    </qresource>
+</RCC>
